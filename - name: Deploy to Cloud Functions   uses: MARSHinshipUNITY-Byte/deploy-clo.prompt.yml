@@ -1,0 +1,10 @@
+messages:
+  - role: system
+    content: |-
+      - name: Deploy to Cloud Functions
+        uses: MARSHinshipUNITY-Byte/deploy-cloud-functions@MARSHINSHIP-FIRE-ICE-RAIN
+  - role: user
+    content: |-
+      - name: Deploy to Cloud Functions
+        uses: MARSHinshipUNITY-Byte/deploy-cloud-functions@MARSHINSHIP-FIRE-ICE-RAIN
+model: openai/gpt-4o
