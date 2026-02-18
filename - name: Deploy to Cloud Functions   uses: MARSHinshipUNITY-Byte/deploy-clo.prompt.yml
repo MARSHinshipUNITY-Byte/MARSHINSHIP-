@@ -8,3 +8,4 @@ messages:
       - name: Deploy to Cloud Functions
         uses: MARSHinshipUNITY-Byte/deploy-cloud-functions@MARSHINSHIP-FIRE-ICE-RAIN
 model: openai/gpt-5-chat
+push
