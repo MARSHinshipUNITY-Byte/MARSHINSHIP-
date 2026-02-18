@@ -1,4 +1,4 @@
-To build an effective README.md for your project, I’ve analyzed the context of the repository name (MARSHINSHIP-) and the associated GitHub Actions run.
+.
 Since "MARSHINSHIP" often refers to maritime monitoring, ship tracking, or Unity-based simulations (given the organization name MARSHinshipUNITY-Byte), this template focuses on a Unity-based Maritime Simulation/Management System.
 You can copy and paste the Markdown below into your README.md file:
 MARSHINSHIP- 🚢
